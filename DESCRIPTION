@@ -18,11 +18,11 @@ Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
 Depends:
-  MatrixGenerics (>= 1.15.1),
-  DelayedArray (>= 0.31.7)
+  MatrixGenerics (>= 1.6.0),
+  DelayedArray (>= 0.20.0)
 Imports:
   methods,
-  sparseMatrixStats (>= 1.13.2),
+  sparseMatrixStats (>= 1.6.0),
   Matrix (>= 1.5-0),
   S4Vectors (>= 0.17.5),
   IRanges (>= 2.25.10),
